@@ -72,7 +72,7 @@ class AuthService {
       last_name: user.info.last_name,
       username: user.info.username,
       tg_login_params: user.query_id,
-      invitor: "9668a80829231c0cbeee42dc2645079e",
+      invitor: "a0eed14ec21fd826773b6da808fa000a",
       nickname,
     };
     try {
